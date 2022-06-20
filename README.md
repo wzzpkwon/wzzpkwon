@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Yong Kwon.
-- 👀 I’m interested in ... becoming a software developer
+- 👋 Hi, I’m Yong Kwon, a work-in-progress software developer
+- 👀 I’m interested in ... becoming information security professional
 - 🌱 I’m currently learning ... HTML, CSS, Javascript, Python, etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... yongchahn.kwon@gmail.com would be the best way.
